@@ -4,16 +4,25 @@ Hello! Thank you for your interest in working at Fluorescent. This is a small ta
 
 ## Overview
 
-Develop a small piece of a theme product page. The design comps can be found [here](https://www.figma.com/file/OpOEnmfvcPxNtPSkZ8Aci9/Dev-Project?node-id=23%3A889).
+Develop a small piece of a theme product page. The design comps can be found [here](https://www.figma.com/file/GxB20A0rWdeaZR7dfVT9KO/Dev-challenge?node-id=0-1&t=zSWfa3MnY7M4prKR-0).
 
 ## Requirements
 
-* Recreate the design in the comps with all assets provided
-* There should be hover interactions on product images (the little magnifying glass icon should appear on hover) and buttons (buttons should fill to black with white text). 
-* There should be a click interaction on the color variants. When you click on a color variant the appropriate product image should be scrolled into view. 
+* Recreate the design in the comps with all assets provided (fonts will be sent with the link to these intrsuctions)
+* The following interactions should be added:
+  * Clicking a thumbnail will update the main product image and the active thumbnail state
+  * Clicking on variant selectors (Swatches / Chips) should update the associated labels and the product image / active thumbnail
+  * Clicking on a sold out Chip should update the 'Add to bag' button text
+* Make the page responsive. You have not been given mobile designs, use your best judgement
 * Host your page somewhere
 
 
 ## Time Constraint
 
 Please do not spend more than three hours on this. We're not judging whether you've made it perfect — we're looking for how well you follow instructions.
+
+## Final product
+
+We're detail oriented folks here at Fluorescent. 
+
+Please include a brief write up in your repos `README.md` about the stack you chose and decisions you made. 
