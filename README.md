@@ -11,8 +11,7 @@ Develop a small piece of a theme product page. The design comps can be found [he
 * Recreate the design in the comps with all assets provided (fonts will be sent with the link to these intrsuctions)
 * The following interactions should be added:
   * Clicking a thumbnail will update the main product image and the active thumbnail state
-  * Clicking on variant selectors (Swatches / Chips) should update the associated labels and the product image / active thumbnail
-  * Clicking on a sold out Chip should update the 'Add to bag' button text
+  * Clicking on variant selectors (Swatches) should update the associated labels and the product image / active thumbnail
 * Make the page responsive. You have not been given mobile designs, use your best judgement
 * Host your page somewhere
 
