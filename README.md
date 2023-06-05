@@ -8,7 +8,7 @@ Develop a small piece of a theme product page. The design comps can be found [he
 
 ## Requirements
 
-* Recreate the design in the comps with all assets provided (fonts will be sent with the link to these intrsuctions)
+* Recreate the design in the comps with all assets provided (fonts will be sent with the link to these intsructions)
 * The following interactions should be added:
   * Clicking a thumbnail will update the main product image and the active thumbnail state
   * Clicking on variant selectors (Swatches) should update the associated labels and the product image / active thumbnail
