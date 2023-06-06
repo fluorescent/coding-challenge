@@ -14,9 +14,7 @@ Develop a small piece of a theme product page. The design comps can be found [he
 
 ## Stretch goals
 * Make the page responsive. You have not been given mobile designs, use your best judgement (priority over other stretch goals)
-* The following interactions should be added:
-  * Clicking a thumbnail will update the main product image and the active thumbnail state
-  * Clicking on variant selectors (Swatches) should update the associated label and the product image / active thumbnail
+* Clicking a thumbnail will update the main product image and the active thumbnail state
 
 ## Time Constraint
 
