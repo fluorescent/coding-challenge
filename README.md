@@ -4,17 +4,19 @@ Hello! Thank you for your interest in working at Fluorescent. This is a small ta
 
 ## Overview
 
-Develop a small piece of a theme product page. The design comps can be found [here](https://www.figma.com/file/GxB20A0rWdeaZR7dfVT9KO/Dev-challenge?node-id=0-1&t=zSWfa3MnY7M4prKR-0).
+Develop a small piece of a theme product page. The design comps can be found [here](https://www.figma.com/file/FlhgDlLpSEIHWowdftmJlW/Dev-challenge-(Copy)?type=design&node-id=0%3A1&t=3NSfJnjo6SuJiMyv-1).
+
 
 ## Requirements
 
 * Recreate the design in the comps with all assets provided (fonts will be sent with the link to these intsructions)
-* The following interactions should be added:
-  * Clicking a thumbnail will update the main product image and the active thumbnail state
-  * Clicking on variant selectors (Swatches) should update the associated labels and the product image / active thumbnail
-* Make the page responsive. You have not been given mobile designs, use your best judgement
 * Host your page somewhere
 
+## Stretch goals
+* Make the page responsive. You have not been given mobile designs, use your best judgement (priority over other stretch goals)
+* The following interactions should be added:
+  * Clicking a thumbnail will update the main product image and the active thumbnail state
+  * Clicking on variant selectors (Swatches) should update the associated label and the product image / active thumbnail
 
 ## Time Constraint
 
